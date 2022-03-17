@@ -1,4 +1,4 @@
-package com.senac.agendatelefonica;
+package com.curso.agendatelefonica;
 
 public class Contato {
     private int codigo;
